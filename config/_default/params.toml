@@ -104,12 +104,12 @@ directions = ""
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "facebook", icon_pack = "fab", name = "DM Me", link = "https://www.facebook.com/profile.php?id=100010565599487"},
+  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/profile.php?id=100010565599487"},
   {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/KimNeutral"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 김대용 
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 메카솔루션 기술지원팀
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: 메카솔루션
+  url: "https://mechasolution.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 기술에 관한 부분 말고도 남을 가르치는 데에 관심이 많은 엔지니어입니다.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 컴퓨터 구조
+- 서버 프로그래밍
+- 애자일
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 컴퓨터과학과
+    institution: 방송통신대학교 
+    year: 2019
+  - course: 소프트웨어개발과 
+    institution: 대구소프트웨어고등학교
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.facebook.com/profile.php?id=100010565599487
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/KimNeutral
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+생각하고 알리기 좋아하는 엔지니어입니다.
