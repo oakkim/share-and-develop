@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Noto"
+
+# Optional Google font URL
+google_fonts = "Noto+Sans+KR"
+
+# Font families
+heading_font = "Noto Sans KR"
+body_font = "Noto Sans KR"
+nav_font = "Noto Sans KR"
+mono_font = "Noto Sans KR"
