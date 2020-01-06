@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "2019년 회고록"
 subtitle: ""
 summary: ""
